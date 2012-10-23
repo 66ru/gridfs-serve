@@ -1,2 +1,1 @@
-gridfs-serve
-============
+project moved to https://github.com/unistorage/gridfs-serve
